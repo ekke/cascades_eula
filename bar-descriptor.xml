@@ -53,7 +53,6 @@
 
     <!--  Name of author which is used for signing. Must match the developer name of your development certificate. -->
     <author>ekkes-corner UG</author>
-    <authorId>gYAAgNK-ORMeS0PwOlcZSTMDa98</authorId>
     <configuration name="Device-Debug">
        <platformArchitecture>armle-v7</platformArchitecture>
        <asset path="arm/o.le-v7-g/cascades_eula" entry="true" type="Qnx/Elf">cascades_eula</asset>

@@ -16,19 +16,6 @@ import bb.cascades 1.0
 import bb.system 1.0
 import my.library 1.0
 
-/**
- * This sample is extracted from the BlackBerry Conference App for BBJam Asia 2013,
- * some small modifications done to make it easy to understand and to insert into your apps
- * 
- * You can download the conference app from BlackBerry World
- * 
- * more info also here:
- * http://devblog.blackberry.com/2013/09/blackberry-jam-asia-conference-app-now-live/
- * and from my blogs
- * http://ekkes-corner.org
- * http://ekkes-apps.org
- * 
- */
 Page {
     attachedObjects: [
         // this is the EULA Dialog
