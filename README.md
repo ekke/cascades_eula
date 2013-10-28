@@ -17,4 +17,6 @@ Cascades APP displaying localized EULA at startup
  * http://ekkes-corner.org
  * http://ekkes-apps.org
  * 
+ * here's the blog explaining the sources: 
+ * http://appbus.wordpress.com/2013/10/09/eula-at-first-start-of-app/
  */
